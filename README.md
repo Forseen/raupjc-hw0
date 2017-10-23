@@ -1,4 +1,4 @@
-# Pitanje { 2 }:
+# Pitanje { 1 }:
 {
   Stvorio se dll file.
   Micanjem dll-a nece se pokrenuti glavni program jer dll sadrzi kod potreban za pokretanje glavnog programa.
